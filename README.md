@@ -1,3 +1,5 @@
+Instagram clone build using create react app. This project is built using ReactJS, SASS, Material UI, with a backend ran on Googles Firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
